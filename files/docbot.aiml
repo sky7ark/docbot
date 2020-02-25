@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+   <category>
+        <pattern>* Bangladesh *</pattern>
+        <template> In Asia </template>
+        
+    </category>
+   
+    <category>
+        <pattern>What is your name</pattern>
+        <template>I am a bot named Docbot</template>
+        
+    </category>
+    
+    <category>
+        <pattern>What is medical science</pattern>
+        <template>Its everything for a human</template>
+        
+    </category>
+ 
+ 
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>

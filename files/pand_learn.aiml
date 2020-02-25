@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<!-- insert your AIML categories here -->
+
+<category>
+	<pattern>WHAT IS YOUR NAME</pattern>
+	<that>my name is salith</that>
+	<template>My name is salith</template>
+</category>
+
+</aiml>
